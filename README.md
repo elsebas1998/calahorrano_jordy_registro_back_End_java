@@ -76,43 +76,43 @@ El código generado no está ni bien ni mal. Solo queremos saber más sobre sus 
 
 **Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos:**
 
-Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
++ Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
 
-Crea un nuevo proyecto dentro de tu GitHub (https://github.com) 
++ Crea un nuevo proyecto dentro de tu GitHub (https://github.com) 
 
-Desarrollar un sistema que cumpla con los casos de uso presentados 
++ Desarrollar un sistema que cumpla con los casos de uso presentados 
 
-Para montar el sistema, tenga en cuenta la arquitectura de referencia dentro de la carpeta de referencia 
++ Para montar el sistema, tenga en cuenta la arquitectura de referencia dentro de la carpeta de referencia 
 
-Crear una interfaz HTML que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono 
++ Crear una interfaz HTML que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono 
 
-Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
++ Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
 
-Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
++ Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
 
-Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
++ Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
-Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
++ Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
 
-Documente cómo se debe iniciar el proyecto para que podamos ejecutar su aplicación 
++ Documente cómo se debe iniciar el proyecto para que podamos ejecutar su aplicación 
 
-Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido 
++ Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido 
 
-Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-java.git 
++ Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-java.git 
 
-Espere a que RRHH se ponga en contacto con usted. 
++ Espere a que RRHH se ponga en contacto con usted. 
 
 ## Reglas 
 
-Puede utilizar Java en cualquier versión :) 
++ Puede utilizar Java en cualquier versión y el IDE de su preferencia :) 
 
-Puede utilizar frameworks de lenguaje Java, de preferencia Spring y hibernate :) 
++ Puede utilizar frameworks de lenguaje Java, de preferencia Spring y hibernate :) 
 
-Para conservar la información, puede utilizar una base de datos en memoria que administre o utilizar una base de datos, como HSQLDB. 
++ Para conservar la información, puede utilizar una base de datos en memoria que administre o utilizar una base de datos, como HSQLDB. 
 
-También puede elegir escribir en el archivo. 
++ También puede elegir escribir en un archivo. 
 
-Detalles de la creación de pruebas unitarias, la ordenación de la lista registrada o el filtrado de la lista son opcionales. ¡Pero si lo haces te lo agradeceremos! =) 
++ (Opcional) Detalle de la creación de pruebas unitarias, la ordenación de la lista registrada o el filtrado de la lista. ¡Pero si lo haces te lo agradeceremos! =) 
 
 ## Lo que apreciamos 
 
