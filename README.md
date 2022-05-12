@@ -1,11 +1,12 @@
-# Prueba de BackEnd 
+# Prueba de BackEnd
+-------------
 
 
 Creamos esta prueba para conocer sobre sus conocimientos y habilidades en lenguaje Java, programación orientada a objetos y buenas prácticas de programación. 
 
 La prueba consiste en construir una aplicación Java capaz de recuperar información de un archivo XML y un archivo JSON, conservar un registro en una base de datos en memoria o de archivo, y listar los registros en una interfaz simple. 
 
-Propuesta 
+##Propuesta 
 
 ¡El "nuevo" sistema de registro de clientes de la empresa XYZ_CH desde la plataforma web necesita una nueva propuesta!  
 
