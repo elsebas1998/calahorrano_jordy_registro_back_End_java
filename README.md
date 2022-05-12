@@ -32,9 +32,9 @@ Debe leer la información de los beneficios de los archivos compartidos
 
 ## Enlaces a archivos de referencia 
 
-sdgsdf.json  
+https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/sk_formato.json  
 
-sdfgsd.xml 
+https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
 ## Casos de uso 
 
@@ -68,7 +68,7 @@ El sistema consulta la base de datos en memoria o en archivo
 
 El sistema presenta a todos los usuarios registrados. Cada línea tiene la información: nombre, correo electrónico, teléfono, beneficio y archivo de referencia 
 
-Instrucciones 
+## Instrucciones 
 
  
 
@@ -102,7 +102,7 @@ Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemp
 
 Espere a que RRHH se ponga en contacto con usted. 
 
-Reglas 
+## Reglas 
 
 Puede utilizar Java en cualquier versión :) 
 
@@ -114,7 +114,7 @@ También puede elegir escribir en el archivo.
 
 Detalles de la creación de pruebas unitarias, la ordenación de la lista registrada o el filtrado de la lista son opcionales. ¡Pero si lo haces te lo agradeceremos! =) 
 
-Lo que apreciamos 
+## Lo que apreciamos 
 
 Organización 
 
@@ -130,7 +130,7 @@ Estandarización del código
 
 Patrones de diseño 
 
-A quién buscamos 
+## A quién buscamos 
 
 Queremos una persona a la que le guste lo que hace, trabaje en equipo y quiera innovar, buscando siempre soluciones actualizadas e innovadoras. 
 
