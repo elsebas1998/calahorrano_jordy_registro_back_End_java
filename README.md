@@ -28,7 +28,7 @@ Debe leer la información de los beneficios de los archivos compartidos
 
 ## Arquitectura de referencia 
 
- 
+ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/Arquitectura.png
 
 ## Enlaces a archivos de referencia 
 
