@@ -74,7 +74,7 @@ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_forma
 
 El código generado no está ni bien ni mal. Solo queremos saber más sobre sus conocimientos en el lenguaje Java, como el uso de bibliotecas públicas, y también su cuidado por el código fuente, teniendo en cuenta la claridad de las ideas, la organización del código, la documentación y las pruebas. 
 
-** Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos: **
+**Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos:**
 
 Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
 
