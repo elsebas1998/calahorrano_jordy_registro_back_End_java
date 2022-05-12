@@ -1,6 +1,4 @@
 # Prueba de BackEnd
--
-
 
 Creamos esta prueba para conocer sobre sus conocimientos y habilidades en lenguaje Java, programación orientada a objetos y buenas prácticas de programación. 
 
@@ -28,19 +26,19 @@ Debe leer la información de los beneficios de los archivos compartidos
 
  
 
-Arquitectura de referencia 
+## Arquitectura de referencia 
 
  
 
-Enlaces a archivos de referencia 
+## Enlaces a archivos de referencia 
 
 sdgsdf.json  
 
 sdfgsd.xml 
 
-Casos de uso 
+## Casos de uso 
 
-Registro exitoso: 
+- Registro exitoso: 
 
 El usuario “José” registra su nombre, correo electrónico y número de teléfono, y elige la lista sk_formato.json 
 
