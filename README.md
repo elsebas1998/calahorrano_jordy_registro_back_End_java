@@ -48,25 +48,25 @@ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_forma
 
   * El sistema conserva el nombre, el e-mail, el teléfono, beneficio y el archivo de referencia en una base de datos o en un archivo. 
 
-  *El sistema informa que el usuario se ha registrado correctamente y muestra una advertencia de éxito. 
+  * El sistema informa que el usuario se ha registrado correctamente y muestra una advertencia de éxito. 
 
-Lista escogida no tiene beneficios disponibles 
+- Lista escogida no tiene beneficios disponibles 
 
-El usuario “Gabriel” registra su nombre, correo electrónico y número de teléfono, y elige la lista th_formato.xml 
+  * El usuario “Gabriel” registra su nombre, correo electrónico y número de teléfono, y elige la lista th_formato.xml 
 
-El sistema recibe el registro y comprueba los beneficios disponibles en la lista th_formato.xml 
+  * El sistema recibe el registro y comprueba los beneficios disponibles en la lista th_formato.xml 
 
-El sistema no encuentra un beneficio libre 
+  * El sistema no encuentra un beneficio libre 
 
-El sistema le informa que esa lista ya no tiene beneficios disponibles 
+  * El sistema le informa que esa lista ya no tiene beneficios disponibles 
 
-Informe de usuarios registrados: 
+- Informe de usuarios registrados: 
 
-El usuario “Monica” lista los clientes en “Listar Clientes” 
+  * El usuario “Monica” lista los clientes en “Listar Clientes” 
 
-El sistema consulta la base de datos en memoria o en archivo 
+  * El sistema consulta la base de datos en memoria o en archivo 
 
-El sistema presenta a todos los usuarios registrados. Cada línea tiene la información: nombre, correo electrónico, teléfono, beneficio y archivo de referencia 
+  * El sistema presenta a todos los usuarios registrados. Cada línea tiene la información: nombre, correo electrónico, teléfono, beneficio y archivo de referencia 
 
 ## Instrucciones 
 
