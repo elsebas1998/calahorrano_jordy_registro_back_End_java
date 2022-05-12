@@ -76,59 +76,59 @@ El código generado no está ni bien ni mal. Solo queremos saber más sobre sus 
 
 **Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos:**
 
-+ Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
+1. Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
 
-+ Crea un nuevo proyecto dentro de tu GitHub (https://github.com) 
+2. Crea un nuevo proyecto dentro de tu GitHub (https://github.com) 
 
-+ Desarrollar un sistema que cumpla con los casos de uso presentados 
+3. Desarrollar un sistema que cumpla con los casos de uso presentados 
 
-+ Para montar el sistema, tenga en cuenta la arquitectura de referencia dentro de la carpeta de referencia 
+4. Para montar el sistema, tenga en cuenta la arquitectura de referencia dentro de la carpeta de referencia 
 
-+ Crear una interfaz HTML que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono 
+5. Crear una interfaz HTML que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono 
 
-+ Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
+6. Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
 
-+ Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
+7. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
 
-+ Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
+8. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
-+ Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
+9. Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
 
-+ Documente cómo se debe iniciar el proyecto para que podamos ejecutar su aplicación 
+10. Documente cómo se debe iniciar el proyecto para que podamos ejecutar su aplicación 
 
-+ Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido 
+11. Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido 
 
-+ Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-java.git 
+12. Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-java.git 
 
-+ Espere a que RRHH se ponga en contacto con usted. 
+13. Espere a que RRHH se ponga en contacto con usted. 
 
 ## Reglas 
 
-+ Puede utilizar Java en cualquier versión y el IDE de su preferencia :) 
+1. Puede utilizar Java en cualquier versión y el IDE de su preferencia :) 
 
-+ Puede utilizar frameworks de lenguaje Java, de preferencia Spring y hibernate :) 
+2. Puede utilizar frameworks de lenguaje Java, de preferencia Spring y hibernate :) 
 
-+ Para conservar la información, puede utilizar una base de datos en memoria que administre o utilizar una base de datos, como HSQLDB. 
+3. Para conservar la información, puede utilizar una base de datos en memoria que administre o utilizar una base de datos, como HSQLDB. 
 
-+ También puede elegir escribir en un archivo. 
+4. También puede elegir escribir en un archivo. 
 
-+ (Opcional) Detalle de la creación de pruebas unitarias, la ordenación de la lista registrada o el filtrado de la lista. ¡Pero si lo haces te lo agradeceremos! =) 
+5. (Opcional) Detalle de la creación de pruebas unitarias, la ordenación de la lista registrada o el filtrado de la lista. ¡Pero si lo haces te lo agradeceremos! =) 
 
 ## Lo que apreciamos 
 
-Organización 
+* Organización 
 
-Simplicidad 
+* Simplicidad 
 
-Objetividad 
+* Objetividad 
 
-Reutilización del código 
+* Reutilización del código 
 
-Pruebas unitarias 
+* Pruebas unitarias 
 
-Estandarización del código 
+* Estandarización del código 
 
-Patrones de diseño 
+* Patrones de diseño 
 
 ## A quién buscamos 
 
