@@ -74,9 +74,9 @@ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_forma
 
 El código generado no está ni bien ni mal. Solo queremos saber más sobre sus conocimientos en el lenguaje Java, como el uso de bibliotecas públicas, y también su cuidado por el código fuente, teniendo en cuenta la claridad de las ideas, la organización del código, la documentación y las pruebas. 
 
-Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos: 
+**Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos: **
 
-Clonar el sdfgsdfgsdfg 
+Clonar el  proyecto https://github.com/SistemasComoHogar/ClientesBack.git 
 
 Crea un nuevo proyecto dentro de tu GitHub (https://github.com) 
 
@@ -88,9 +88,9 @@ Crear una interfaz HTML que contenga un formulario para recibir el nombre, el co
 
 Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
 
-Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato " en: sdgsdfg.xml 
+Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
 
-Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: sdgs.json 
+Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
 Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
 
@@ -98,7 +98,7 @@ Documente cómo se debe iniciar el proyecto para que podamos ejecutar su aplicac
 
 Envía tu propuesta para el proyecto que creaste en GitHub. Ejemplo: https://github.com/nombre_apellido 
 
-Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-Java.git 
+Envíanos el enlace de GitHub de tu proyecto para que podamos descargarlo. Ejemplo: https://github.com/nombre_apellido/registro-backEnd-java.git 
 
 Espere a que RRHH se ponga en contacto con usted. 
 
