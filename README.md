@@ -88,9 +88,9 @@ El código generado no está ni bien ni mal. Solo queremos saber más sobre sus 
 
 6. Realizar un llamado a una API que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias (No es necesario crear la pantalla) 
 
-7. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml
+7. Cree una o más clases que realice la carga mediante una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml
 
-8. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/sk_formato.json 
+8. Cree una o más clases que realice la carga mediante una solicitud HTTP para el archivo de referencia "sk_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/sk_formato.json 
 
 9. Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
 
