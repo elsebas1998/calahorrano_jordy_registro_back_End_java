@@ -84,11 +84,11 @@ El código generado no está ni bien ni mal. Solo queremos saber más sobre sus 
 
 4. Para montar el sistema, tenga en cuenta la arquitectura de referencia dentro de la carpeta de referencia 
 
-5. Crear una interfaz HTML que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono 
+5. Realizar un llamado a una API que contenga un formulario para recibir el nombre, el correo electrónico y el teléfono (No es necesario crear la pantalla)
 
-6. Cree una interfaz HTML que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias 
+6. Realizar un llamado a una API que enumere a los clientes registrados por nombre, correo electrónico, teléfono, beneficio y lista de referencias (No es necesario crear la pantalla) 
 
-7. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml  
+7. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml
 
 8. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
