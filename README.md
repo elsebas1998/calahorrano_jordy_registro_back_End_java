@@ -90,7 +90,7 @@ El código generado no está ni bien ni mal. Solo queremos saber más sobre sus 
 
 7. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "th_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml
 
-8. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk:formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
+8. Cree una o más clases que realicen una solicitud HTTP para el archivo de referencia "sk_formato" en: https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_formato.xml 
 
 9. Crear una o más clases que contengan las reglas para conservar y recuperar los registros de los clientes 
 
