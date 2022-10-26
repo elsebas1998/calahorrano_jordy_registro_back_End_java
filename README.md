@@ -40,21 +40,21 @@ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_forma
 
 - Registro exitoso: 
 
-  * El usuario “José” registra su nombre, correo electrónico y número de teléfono, y elige la lista sk_formato.json 
+  * El usuario “José” registra su nombre, correo electrónico y número de teléfono, y elige una opción de la lista sk_formato.json cargada previamente. 
 
-  * El sistema recibe el registro y comprueba los nombres de código disponibles en la lista sk_formato.json 
+  * El sistema recibe el registro y comprueba los nombres de código disponibles de la lista sk_formato.json cargada previmente. 
 
   * El sistema encuentra un beneficio libre y lo elige 
 
-  * El sistema conserva el nombre, el e-mail, el teléfono, beneficio y el archivo de referencia en una base de datos o en un archivo. 
+  * El sistema conserva el nombre, el e-mail, el teléfono, beneficio y el archivo de referencia en una base de datos. 
 
   * El sistema informa que el usuario se ha registrado correctamente y muestra una advertencia de éxito. 
 
 - Lista escogida no tiene beneficios disponibles 
 
-  * El usuario “Gabriel” registra su nombre, correo electrónico y número de teléfono, y elige la lista th_formato.xml 
+  * El usuario “Gabriel” registra su nombre, correo electrónico y número de teléfono, y elige una opción de la lista lista th_formato.xml cargada previamente.  
 
-  * El sistema recibe el registro y comprueba los beneficios disponibles en la lista th_formato.xml 
+  * El sistema recibe el registro y comprueba los beneficios disponibles de la lista th_formato.xml cargada previmente.
 
   * El sistema no encuentra un beneficio libre 
 
