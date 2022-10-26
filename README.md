@@ -8,7 +8,7 @@ La prueba consiste en construir una aplicación Java capaz de recuperar informac
 
 ¡El "nuevo" sistema de registro de clientes de la empresa XYZ_CH desde la plataforma web necesita una nueva propuesta!  
 
-El departamento de marketing, ha decidido que por motivos del lanzamiento de la nueva plataforma web, premiará a los primeros clientes en registrarse y participar en beneficios durante todo el año.  En el momento de inscribirse, el cliente deberá escoger a que grupo quiere pertenecer para participar de los beneficios. Por esta razón, se ha creado dos listas separadas diferenciadas por sus formatos: “sk_formato” y “th_formato” (ver carpeta referencias)
+El departamento de marketing, ha decidido que por motivos del lanzamiento de la nueva plataforma web, premiará a los primeros clientes en registrarse y participar de beneficios durante todo el año.  En el momento de inscribirse, el cliente deberá escoger a que grupo quiere pertenecer para participar de los beneficios. Por esta razón, se ha creado dos listas separadas diferenciadas por sus formatos: “sk_formato” y “th_formato” (ver carpeta referencias)
 
 El reto es desarrollar un sistema Java capaz de: 
 
