@@ -1,6 +1,6 @@
 # Prueba de BackEnd
 
-Creamos esta prueba para conocer sobre sus conocimientos y habilidades en lenguaje Java, programación orientada a objetos y buenas prácticas de programación. 
+Creamos esta prueba para conocer sobre sus conocimientos y habilidades en lenguaje Java, programación orientada a objetos, micro servicios, spring boot, arquitectura hexagonal y buenas prácticas de programación. 
 
 La prueba consiste en construir una aplicación Java capaz de recuperar información de un archivo XML y un archivo JSON, conservar un registro en una base de datos en memoria o de archivo, y listar los registros en una interfaz simple. 
 
@@ -72,7 +72,7 @@ https://github.com/SistemasComoHogar/ClientesBack/blob/main/Referencias/th_forma
 
  
 
-El código generado no está ni bien ni mal. Solo queremos saber más sobre sus conocimientos en el lenguaje Java, como el uso de bibliotecas públicas, y también su cuidado por el código fuente, teniendo en cuenta la claridad de las ideas, la organización del código, la documentación y las pruebas. 
+El código generado no está ni bien ni mal. Solo queremos saber más sobre sus conocimientos en el lenguaje Java, Spring boot, arquitectura hexagonal como el uso de librerías públicas, y también su cuidado por el código fuente, teniendo en cuenta la claridad de las ideas, la organización del código, la documentación y las pruebas. 
 
 **Clone este proyecto, cree un nuevo proyecto en su propio GitHub y siga los siguientes pasos:**
 
