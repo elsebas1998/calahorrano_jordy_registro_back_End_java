@@ -25,7 +25,7 @@ public class Controller {
         return ResponseEntity.ok().body(clienteService.getAllClientes());
     }
 
-    @GetMapping("/buscar/{nombre}")
+    @GetMapping("/buscarName/{nombre}")
     public ResponseEntity<Cliente> getClientesForName(@PathVariable String nombre) {
         Cliente cliente = clienteService.findUserByName(nombre);
         if (cliente != null) {
@@ -34,7 +34,7 @@ public class Controller {
             return ResponseEntity.notFound().build();
         }
     }
-    @GetMapping("/buscar/{email}")
+    @GetMapping("/buscaEmail/{email}")
     public ResponseEntity<Cliente> getClientesForEmail(@PathVariable String email) {
         Cliente cliente = clienteService.findUserByEmail(email);
         if (cliente != null) {
