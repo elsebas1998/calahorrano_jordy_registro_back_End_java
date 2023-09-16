@@ -28,10 +28,9 @@ public class Application {
 
 
 		beneficioService.cargarBeneficiosDesdeJSON(rutaArchivoJSON);
-		// Obtenemos la ruta del archivo XML desde el archivo de propiedades
-		String rutaArchivoXML = context.getEnvironment().getProperty("rutaArchivoXML");
 
-		// Cargamos los beneficios desde el archivo XML
+		String rutaArchivoXML = context.getEnvironment().getProperty("C:\\Users\\Sebas\\Desktop\\Prueba de BackEnd\\ClientesBack\\jsca.prueba\\src\\main\\resources\\th_formato.xml");
+
 		beneficioService.cargarBeneficiosDesdeXML(rutaArchivoXML);
 	}
 	}
