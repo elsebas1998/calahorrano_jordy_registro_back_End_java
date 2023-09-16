@@ -77,7 +77,7 @@ public class Controller {
     }
 
 
-    @DeleteMapping(path = "/eliminar")
+    @DeleteMapping(path = "/eliminar/{id}")
     public ResponseEntity<?> deleteCliente(@PathVariable Long id){
         clienteService.eliminarCliente(id);
         return ResponseEntity.ok("Cliente eliminado");
