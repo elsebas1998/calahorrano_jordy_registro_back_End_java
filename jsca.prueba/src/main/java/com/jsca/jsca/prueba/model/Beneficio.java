@@ -17,4 +17,8 @@ public class Beneficio {
 
     @Column(nullable = false)
     private String beneficio;
+
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "cliente_id")
+    private Cliente cliente;
 }

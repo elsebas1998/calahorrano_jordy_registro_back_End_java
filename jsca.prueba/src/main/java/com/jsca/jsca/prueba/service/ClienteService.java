@@ -14,6 +14,7 @@ public class ClienteService {
     private ClienteRepository clienteRepository;
     public List<Cliente> getAllClientes(){return clienteRepository.findAll();}
 
+
     public Cliente createCliente(Cliente cliente){return clienteRepository.save(cliente);}
 
     public void  eliminarCliente(Long id){ clienteRepository.deleteById(id);}
@@ -42,6 +43,8 @@ public class ClienteService {
             return "Cliente no existe";
         }
     }
+
+
 
     public boolean clienteVerifi(Cliente cliente) {
         String name = cliente.getName();
